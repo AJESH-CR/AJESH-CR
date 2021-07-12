@@ -24,8 +24,8 @@
     <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Ajesh's Medium Profile" height="30" width="30">
   </a>
   
-   <a href="#">
-    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="#" height="30" width="30">
+   <a href="https://dev.to/ajeshcr">
+    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Ajesh's Dev Profile" height="30" width="30">
   </a>
 </p>
 
